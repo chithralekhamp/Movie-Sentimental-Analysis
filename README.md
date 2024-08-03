@@ -9,15 +9,15 @@ IMDb movie review analysis using Python and LSTM (Long Short-Term Memory) networ
 🔹 Training and Evaluation: Train LSTM model and evaluate its performance on sentiment classification tasks.<br>
 🔹 Visualizing Results: Tips for visualizing model performance and interpreting the results.
 
-Tools and Libraries Used:
-Python: The programming language used for scripting and model development.
-Pandas: For data manipulation and analysis.
-NumPy: For numerical operations.
-TensorFlow & Keras: To build and train the LSTM network.
-NLTK & SpaCy: For text preprocessing tasks.
+Tools and Libraries Used:<br>
+Python: The programming language used for scripting and model development.<br>
+Pandas: For data manipulation and analysis.<br>
+NumPy: For numerical operations.<br>
+TensorFlow & Keras: To build and train the LSTM network.<br>
+NLTK & SpaCy: For text preprocessing tasks.<br>
 Matplotlib & Seaborn: For visualizing the data and results.
-
-🔗 Useful Links & Resources:
+<br>
+<br>
 
 Dataset Source: https://www.kaggle.com/datasets/laksh...
 

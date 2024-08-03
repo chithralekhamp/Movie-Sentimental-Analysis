@@ -2,11 +2,11 @@
 NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis
 IMDb movie review analysis using Python and LSTM (Long Short-Term Memory) networks. Sentiment analysis on movie reviews, from data preprocessing to building and training the LSTM model.
 
-🔹 Introduction to Sentiment Analysis: Understand the basics of sentiment analysis and its importance in natural language processing (NLP).
-🔹 Data Collection: collect and preprocess IMDb movie review data for analysis.
-🔹 Text Preprocessing: Techniques for cleaning and preparing text data, including tokenization and padding sequences.
-🔹 Building an LSTM Model:Building an LSTM network using TensorFlow and Keras.
-🔹 Training and Evaluation: Train LSTM model and evaluate its performance on sentiment classification tasks.
+🔹 Introduction to Sentiment Analysis: Understand the basics of sentiment analysis and its importance in natural language processing (NLP)<br>
+🔹 Data Collection: collect and preprocess IMDb movie review data for analysis.<br>
+🔹 Text Preprocessing: Techniques for cleaning and preparing text data, including tokenization and padding sequences.<br>
+🔹 Building an LSTM Model:Building an LSTM network using TensorFlow and Keras.<br>
+🔹 Training and Evaluation: Train LSTM model and evaluate its performance on sentiment classification tasks.<br>
 🔹 Visualizing Results: Tips for visualizing model performance and interpreting the results.
 
 Tools and Libraries Used:

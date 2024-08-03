@@ -1,5 +1,6 @@
 # Movie-Sentimental-Analysis
-NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis<br><br>
+**NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis**<br><br>
+<br>
 IMDb movie review analysis using Python and LSTM (Long Short-Term Memory) networks. Sentiment analysis on movie reviews, from data preprocessing to building and training the LSTM model.
 
 🔹 Introduction to Sentiment Analysis: Understand the basics of sentiment analysis and its importance in natural language processing (NLP)<br>
@@ -9,7 +10,7 @@ IMDb movie review analysis using Python and LSTM (Long Short-Term Memory) networ
 🔹 Training and Evaluation: Train LSTM model and evaluate its performance on sentiment classification tasks.<br>
 🔹 Visualizing Results: Tips for visualizing model performance and interpreting the results.
 
-Tools and Libraries Used:<br>
+**Tools and Libraries Used**<br> <br> <br>
 **Python:** The programming language used for scripting and model development.<br>
 **Pandas:** For data manipulation and analysis.<br>
 **NumPy:** For numerical operations.<br>
@@ -18,6 +19,7 @@ Tools and Libraries Used:<br>
 **Matplotlib & Seaborn:** For visualizing the data and results.
 <br>
 <br>
+**Dataset Source**: https://www.kaggle.com/datasets/laksh...
 
-Dataset Source: https://www.kaggle.com/datasets/laksh...
+<br><br><br>
 

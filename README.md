@@ -10,7 +10,7 @@ IMDb movie review analysis using Python and LSTM (Long Short-Term Memory) networ
 🔹 Training and Evaluation: Train LSTM model and evaluate its performance on sentiment classification tasks.<br>
 🔹 Visualizing Results: Tips for visualizing model performance and interpreting the results.
 
-**Tools and Libraries Used**<br> <br> <br>
+**Tools and Libraries Used**<br> <br> 
 **Python:** The programming language used for scripting and model development.<br>
 **Pandas:** For data manipulation and analysis.<br>
 **NumPy:** For numerical operations.<br>

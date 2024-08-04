@@ -3,7 +3,7 @@
 <br>
 IMDb movie review analysis using Python and LSTM (Long Short-Term Memory) networks. Sentiment analysis on movie reviews, from data preprocessing to building and training the LSTM model.
 
-🔹 Introduction to Sentiment Analysis: Understand the basics of sentiment analysis and its importance in natural language processing (NLP)<br>
+
 🔹 Data Collection: collect and preprocess IMDb movie review data for analysis.<br>
 🔹 Text Preprocessing: Techniques for cleaning and preparing text data, including tokenization and padding sequences.<br>
 🔹 Building an LSTM Model:Building an LSTM network using TensorFlow and Keras.<br>
